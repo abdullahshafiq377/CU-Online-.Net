@@ -1,0 +1,169 @@
+﻿<Page x:Class="CUOnline.TeacherUploadMarksPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:CUOnline"
+      mc:Ignorable="d"
+      d:DesignHeight="720"
+      d:DesignWidth="1250"
+      Title="TeacherUploadMarksPage">
+
+    <Grid Background="{StaticResource WhiteColour}">
+
+        <Label Content="Upload Marks"
+               Style="{StaticResource Heading1Style}"
+               Margin="50 20 0 0" />
+
+        <StackPanel Height="100"
+                    VerticalAlignment="Top"
+                    Margin="0 90 0 0"
+                    Orientation="Horizontal">
+            <StackPanel Width="300"
+                        HorizontalAlignment="Left"
+                        Margin="200 0 0 0">
+                <Label Content="Registration No."
+                       Style="{StaticResource BodyText2Style}"
+                       Margin="0 10 0 0"
+                       Width="150"
+                       HorizontalAlignment="Left" />
+                <StackPanel Orientation="Horizontal"
+                            Width="300"
+                            HorizontalAlignment="Left"
+                            Margin="0 0 0 0">
+                    <ComboBox x:Name="Session_ComboBox"
+                              Height="40"
+                              Width="60"
+                              HorizontalAlignment="Left"
+                              VerticalContentAlignment="Center"
+                              FontSize="18">
+                        <ComboBoxItem Content="FA" />
+                        <ComboBoxItem Content="SP" />
+                    </ComboBox>
+                    <ComboBox x:Name="Year_ComboBox"
+                              Height="40"
+                              Width="60"
+                              HorizontalAlignment="Left"
+                              VerticalContentAlignment="Center"
+                              FontSize="18"
+                              Margin="15 0 0 0">
+
+                        <ComboBoxItem Content="17" />
+                        <ComboBoxItem Content="18" />
+                        <ComboBoxItem Content="19" />
+                        <ComboBoxItem Content="20" />
+                        <ComboBoxItem Content="21" />
+                    </ComboBox>
+                    <ComboBox x:Name="Program_ComboBox"
+                              Height="40"
+                              Width="70"
+                              HorizontalAlignment="Left"
+                              VerticalContentAlignment="Center"
+                              FontSize="18"
+                              Margin="15 0 0 0">
+                        <ComboBoxItem Content="BCS" />
+                        <ComboBoxItem Content="BSE" />
+                        <ComboBoxItem Content="BCE" />
+                    </ComboBox>
+
+                    <TextBox x:Name="RollNo_TextBox"
+                             Style="{StaticResource TextBoxStyle}"
+                             Width="60"
+                             HorizontalAlignment="Left"
+                             Margin="15 0 0 0" />
+                </StackPanel>
+            </StackPanel>
+            <Button x:Name="SearchStudentButton"
+                    Content="Search"
+                    Margin="400 30 0 0"
+                    Style="{StaticResource PrimaryButtonStyle}"
+                    VerticalAlignment="Top"
+                    Click="SearchStudentButton_OnClick" />
+
+
+        </StackPanel>
+        <StackPanel Height="30"
+                    VerticalAlignment="Top"
+                    Margin="0 250 0 0"
+                    Orientation="Horizontal">
+            <StackPanel Orientation="Horizontal"
+                        Width="520"
+                        Margin="75 0 50 0">
+                <Label Content="Registration No:"
+                       Style="{StaticResource BodyText1Style}" />
+                <Label x:Name="RegistrationNo_Label"
+                       Content=""
+                       Style="{StaticResource BodyText1Style}" 
+                       Margin="10 0 0 0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal"
+                        Width="520">
+                <Label Content="Name:"
+                       Style="{StaticResource BodyText1Style}"
+                       Margin="0 0 0 0" />
+                <Label x:Name="Name_Label"
+                       Content=""
+                       Style="{StaticResource BodyText1Style}"
+                       Margin="10 0 0 0" />
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Height="100"
+                    VerticalAlignment="Top"
+                    Margin="75 350 75 0"
+                    Orientation="Horizontal">
+            <StackPanel>
+                <Label Content="Title:"
+                       Style="{StaticResource BodyText2Style}" />
+                <TextBox x:Name="Title_TextBox"
+                         Style="{StaticResource TextBoxStyle}"
+                         Width="300"
+                         HorizontalAlignment="Left"
+                         Margin=" 0 5 0 0" />
+            </StackPanel>
+            <StackPanel Margin="200 0 0 0">
+                <Label Content="Total Marks:"
+                       Style="{StaticResource BodyText2Style}"
+                       Margin="0 0 0 0" />
+                <TextBox x:Name="TotalMarks_TextBox"
+                         Style="{StaticResource TextBoxStyle}"
+                         Width="150"
+                         HorizontalAlignment="Left"
+                         Margin=" 0 5 0 0" />
+            </StackPanel>
+            <StackPanel Margin="200 0 0 0">
+                <Label Content="Obtained Marks:"
+                       Style="{StaticResource BodyText2Style}"
+                       Margin="0 0 0 0" />
+                <TextBox x:Name="ObtainedMarks_TextBox"
+                         Style="{StaticResource TextBoxStyle}"
+                         Width="150"
+                         HorizontalAlignment="Left"
+                         Margin=" 0 5 0 0" />
+            </StackPanel>
+            
+        </StackPanel>
+
+        <StackPanel Height="100" Margin=" 0 300 0 0">
+            <Label Content="Courses:"
+                   Style="{StaticResource BodyText2Style}"
+                   Margin="425 0 0 0"
+                   Width="150"
+                   HorizontalAlignment="Left" />
+            <ComboBox x:Name="Courses_ComboBox"
+                      Height="40"
+                      Width="400"
+                      HorizontalAlignment="Left"
+                      VerticalContentAlignment="Center"
+                      FontSize="18"
+                      Margin="425 10 0 0">
+            </ComboBox>
+        </StackPanel>
+
+        <Button x:Name="SaveMarksButton"
+                Content="Save"
+                Margin="00 600 0 0"
+                Style="{StaticResource PrimaryButtonStyle}"
+                VerticalAlignment="Top" 
+                Click="SaveMarksButton_OnClick"/>
+    </Grid>
+</Page>

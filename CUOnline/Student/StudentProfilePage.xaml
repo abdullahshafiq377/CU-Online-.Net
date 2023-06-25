@@ -1,0 +1,105 @@
+﻿<Page x:Class="CUOnline.StudentProfilePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:CUOnline"
+      mc:Ignorable="d"
+      d:DesignHeight="720"
+      d:DesignWidth="1250"
+      Title="StudentProfilePage">
+
+    <Grid Background="{StaticResource WhiteColour}">
+        <Label Content="Profile"
+               Style="{StaticResource Heading1Style}"
+               Margin="50 20 0 0" />
+
+        <StackPanel Height="500"
+                    Width="1050"
+                    Orientation="Horizontal">
+            <StackPanel Width="425">
+                
+                <Label Content="Registration No:"
+                       FontWeight="Bold"
+                       Style="{StaticResource BodyText1Style}" />
+                <Label x:Name="RegistrationNum_Label"
+                       Margin="0 5 0 0"
+                       Style="{StaticResource BodyText1Style}" />
+
+                <Label Content="Father's Name:"
+                       Margin="0 50 0 0"
+                       FontWeight="Bold"
+                       Style="{StaticResource BodyText1Style}" />
+                <Label x:Name="FatherName_Label"
+                       Margin="0 5 0 0"
+                       Style="{StaticResource BodyText1Style}" />
+
+                <Label Content="Date of Birth:"
+                       Margin="0 50 0 0"
+                       FontWeight="Bold"
+                       Style="{StaticResource BodyText1Style}" />
+                <Label x:Name="DOB_Label"
+                       Margin="0 5 0 0"
+                       Style="{StaticResource BodyText1Style}" />
+
+                <Label Content="Email:"
+                       Margin="0 50 0 0"
+                       FontWeight="Bold"
+                       Style="{StaticResource BodyText1Style}" />
+                <Label x:Name="Email_Label"
+                       Margin="0 5 0 0"
+                       Style="{StaticResource BodyText1Style}" />
+
+            </StackPanel>
+
+            <StackPanel Width="425">
+                <Label Content="Name:"
+                       FontWeight="Bold"
+                       Style="{StaticResource BodyText1Style}" />
+                <Label x:Name="Name_Label"
+                       Margin="0 5 0 0"
+                       Style="{StaticResource BodyText1Style}" />
+
+                <Label Content="Gender:"
+                       Margin="0 50 0 0"
+                       FontWeight="Bold"
+                       Style="{StaticResource BodyText1Style}" />
+                <Label x:Name="Gender_Label"
+                       Margin="0 5 0 0"
+                       Style="{StaticResource BodyText1Style}" />
+
+                <Label Content="Nationality:"
+                       Margin="0 50 0 0"
+                       FontWeight="Bold"
+                       Style="{StaticResource BodyText1Style}" />
+                <Label x:Name="Nationality_Label"
+                       Margin="0 5 0 0"
+                       Style="{StaticResource BodyText1Style}" />
+
+                <Label Content="Contact No:"
+                       Margin="0 50 0 0"
+                       FontWeight="Bold"
+                       Style="{StaticResource BodyText1Style}" />
+                <Label x:Name="Contact_Label"
+                       Margin="0 5 0 0"
+                       Style="{StaticResource BodyText1Style}" />
+            </StackPanel>
+
+            <StackPanel Width="200">
+                <Border BorderBrush="{StaticResource BlackColour}"
+                        BorderThickness="1.5"
+                        Width="200"
+                        Height="200">
+
+                    <Image x:Name="Student_Image"
+                           Source="/EmptyImage.png"
+                           Stretch="Fill">
+
+                    </Image>
+
+                </Border>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Page>

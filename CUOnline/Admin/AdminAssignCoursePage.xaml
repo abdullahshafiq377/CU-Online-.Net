@@ -1,0 +1,61 @@
+﻿<Page x:Class="CUOnline.AdminAssignCoursePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:CUOnline"
+      mc:Ignorable="d"
+      d:DesignHeight="720"
+      d:DesignWidth="1250"
+      Title="AdminAssignCoursePage">
+
+    <Grid Background="{StaticResource WhiteColour}">
+        <Label Content="Assign Course"
+               Style="{StaticResource Heading1Style}"
+               Margin="50 20 0 0" />
+
+        <StackPanel Height="200"
+                    VerticalAlignment="Top"
+                    Margin="0 100 0 0"
+                    Orientation="Horizontal">
+
+            <StackPanel Margin="100 50 0 0">
+                <Label Content="Courses"
+                       Style="{StaticResource BodyText2Style}" />
+                <ComboBox x:Name="Course_ComboBox"
+                          Height="40"
+                          Width="250"
+                          HorizontalAlignment="Left"
+                          VerticalContentAlignment="Center"
+                          FontSize="18">
+                </ComboBox>
+            </StackPanel>
+
+            <StackPanel Margin="100 50 0 0">
+                <Label Content="Teachers"
+                       Style="{StaticResource BodyText2Style}" />
+                <ComboBox x:Name="Teacher_ComboBox"
+                          Height="40"
+                          Width="250"
+                          HorizontalAlignment="Left"
+                          VerticalContentAlignment="Center"
+                          FontSize="18">
+                </ComboBox>
+            </StackPanel>
+            <Button x:Name="Assign_Button"
+                Style="{StaticResource PrimaryButtonStyle}"
+                    Margin="300 0 0 0"
+                    Content="Assign"
+                    Click="Assign_Button_Click"/>
+        </StackPanel>
+        <StackPanel Height="400"
+                    VerticalAlignment="Top"
+                    Margin="100 310 100 75">
+
+            <DataGrid x:Name="AssignedTeachers_DataGrid"
+                      RowHeight="30"
+                      FontSize="18"
+                      d:ItemsSource="{d:SampleData ItemCount=5}" />
+        </StackPanel>
+    </Grid>
+</Page>

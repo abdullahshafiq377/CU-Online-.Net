@@ -1,0 +1,153 @@
+﻿<Page x:Class="CUOnline.AdminRegisterCoursePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:CUOnline"
+      mc:Ignorable="d"
+      d:DesignHeight="720"
+      d:DesignWidth="1250"
+      Title="AdminRegisterCoursePage">
+
+    <Grid Background="{StaticResource WhiteColour}">
+        <Label Content="Register Courses"
+               Style="{StaticResource Heading1Style}"
+               Margin="50 20 0 0" />
+        <StackPanel Height="100"
+                    VerticalAlignment="Top"
+                    Margin="0 90 0 0"
+                    Orientation="Horizontal">
+
+            <StackPanel Width="300"
+                        HorizontalAlignment="Left"
+                        Margin="200 0 0 0">
+                <Label Content="Registration No."
+                       Style="{StaticResource BodyText2Style}"
+                       Margin="0 10 0 0"
+                       Width="150"
+                       HorizontalAlignment="Left" />
+                <StackPanel Orientation="Horizontal"
+                            Width="300"
+                            HorizontalAlignment="Left"
+                            Margin="0 0 0 0">
+                    <ComboBox x:Name="Session_ComboBox"
+                              Height="40"
+                              Width="60"
+                              HorizontalAlignment="Left"
+                              VerticalContentAlignment="Center"
+                              FontSize="18">
+                        <ComboBoxItem Content="FA" />
+                        <ComboBoxItem Content="SP" />
+                    </ComboBox>
+                    <ComboBox x:Name="Year_ComboBox"
+                              Height="40"
+                              Width="60"
+                              HorizontalAlignment="Left"
+                              VerticalContentAlignment="Center"
+                              FontSize="18"
+                              Margin="15 0 0 0">
+
+                        <ComboBoxItem Content="17" />
+                        <ComboBoxItem Content="18" />
+                        <ComboBoxItem Content="19" />
+                        <ComboBoxItem Content="20" />
+                        <ComboBoxItem Content="21" />
+                    </ComboBox>
+                    <ComboBox x:Name="Program_ComboBox"
+                              Height="40"
+                              Width="70"
+                              HorizontalAlignment="Left"
+                              VerticalContentAlignment="Center"
+                              FontSize="18"
+                              Margin="15 0 0 0">
+                        <ComboBoxItem Content="BCS" />
+                        <ComboBoxItem Content="BSE" />
+                        <ComboBoxItem Content="BCE" />
+                    </ComboBox>
+
+                    <TextBox x:Name="RollNo_TextBox"
+                             Style="{StaticResource TextBoxStyle}"
+                             Width="60"
+                             HorizontalAlignment="Left"
+                             Margin="15 0 0 0" />
+                </StackPanel>
+            </StackPanel>
+
+
+            <Button x:Name="SearchStudentButton"
+                    Content="Search"
+                    Margin="400 30 0 0"
+                    Style="{StaticResource PrimaryButtonStyle}"
+                    VerticalAlignment="Top"
+                    Click="SearchStudentButton_Click" />
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Height="150"
+                        Width="250"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        Margin="350 220 0 0">
+
+                <Label Content="Registration No:"
+                       Style="{StaticResource BodyText1Style}" />
+
+                <Label Content="Name:"
+                       Style="{StaticResource BodyText1Style}"
+                       Margin="0 20 0 0" />
+
+                <Label Content="Father's Name:"
+                       Style="{StaticResource BodyText1Style}"
+                       Margin="0 20 0 0" />
+            </StackPanel>
+
+            <StackPanel Height="150"
+                        Width="250"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        Margin="100 220 0 0">
+
+                <Label x:Name="RegistrationNo_Label"
+                       Content=""
+                       Style="{StaticResource BodyText1Style}" />
+
+                <Label x:Name="Name_Label"
+                       Content=""
+                       Style="{StaticResource BodyText1Style}"
+                       Margin="0 20 0 0" />
+
+                <Label x:Name="FatherName_Label"
+                       Content=""
+                       Style="{StaticResource BodyText1Style}"
+                       Margin="0 20 0 0" />
+            </StackPanel>
+
+
+        </StackPanel>
+        <StackPanel x:Name="MainStackPanel"
+                    Height="300"
+                    IsEnabled="False"
+                    Margin="0 400 0 0">
+
+            <Label Content="Courses:"
+                   Style="{StaticResource BodyText2Style}"
+                   Margin="350 0 0 0"
+                   Width="150"
+                   HorizontalAlignment="Left" />
+            <ComboBox x:Name="Courses_ComboBox"
+                      Height="40"
+                      Width="400"
+                      HorizontalAlignment="Left"
+                      VerticalContentAlignment="Center"
+                      FontSize="18"
+                      Margin="350 10 0 0">
+            </ComboBox>
+            <Button x:Name="RegisterCourseButton"
+                    Content="Register"
+                    Margin="0 150 0 0"
+                    Style="{StaticResource PrimaryButtonStyle}"
+                    VerticalAlignment="Top"
+                    Click="RegisterCourseButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

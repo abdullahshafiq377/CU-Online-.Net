@@ -1,0 +1,164 @@
+﻿<Page x:Class="CUOnline.StudentHomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CUOnline"
+      mc:Ignorable="d" 
+      d:DesignHeight="850" d:DesignWidth="1600"
+      Title="StudentHomePage">
+
+    <Grid Background="{StaticResource LightBackgroundColour}">
+
+        <StackPanel Background="{StaticResource PrimaryColour}"
+                    Height="75"
+                    VerticalAlignment="Top">
+
+            <Button x:Name="Logo_Button"
+                    Width="300"
+                    Background="{x:Null}"
+                    BorderBrush="{x:Null}"
+                    HorizontalAlignment="Left"
+                    Margin="50 0 0 0">
+                <StackPanel Orientation="Horizontal">
+
+                    <Image Source="/logo.png"
+                           Width="60"
+                           HorizontalAlignment="Left"
+                           Margin="0 10 0 0" />
+
+                    <Label Content="CU Online Portal"
+                           Style="{StaticResource Heading2Style}"
+                           Foreground="{StaticResource WhiteColour}"
+                           Margin="15 15 0 0" />
+
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel Width="300"
+                    HorizontalAlignment="Left"
+                    Margin="0 76 0 0">
+
+            <TreeView FontSize="18"
+                      Background="{StaticResource WhiteColour}"
+                      BorderBrush="{x:Null}">
+                <TreeViewItem Header="Dashboard"
+                              IsExpanded="True">
+                    <Button x:Name="DashboardButton"
+                            Height="40"
+                            Width="255"
+                            HorizontalContentAlignment="Left"
+                            FontSize="18"
+                            Margin="0 0.5"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Click="SideNav_Click">
+                        <Label Margin="20 0 0 0"
+                               Content="Dashboard"
+                               Foreground="{StaticResource PrimaryColour}" />
+                    </Button>
+                </TreeViewItem>
+                <TreeViewItem Header="Registration"
+                              IsExpanded="True">
+                    <Button x:Name="RegistrationCardButton"
+                            Height="40"
+                            Width="255"
+                            FontSize="18"
+                            HorizontalContentAlignment="Left"
+                            Margin="0 0.5"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Click="SideNav_Click">
+                        <Label Margin="20 0 0 0"
+                               Content="Registration Card"
+                               Foreground="{StaticResource PrimaryColour}" />
+                    </Button>
+                </TreeViewItem>
+
+                <TreeViewItem Header="Course"
+                              IsExpanded="True">
+                    <Button x:Name="AttendanceButton"
+                            Height="40"
+                            Width="255"
+                            HorizontalContentAlignment="Left"
+                            FontSize="18"
+                            Margin="0 0.5"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Click="SideNav_Click">
+                        <Label Margin="20 0 0 0"
+                               Content="Attendance"
+                               Foreground="{StaticResource PrimaryColour}" />
+                    </Button>
+
+                    <Button x:Name="AssignmentButton"
+                            Height="40"
+                            Width="255"
+                            HorizontalContentAlignment="Left"
+                            FontSize="18"
+                            Margin="0 0.5"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Click="SideNav_Click">
+                        <Label Margin="20 0 0 0"
+                               Content="Assignment"
+                               Foreground="{StaticResource PrimaryColour}" />
+                    </Button>
+
+                    <Button x:Name="QuizButton"
+                            Height="40"
+                            Width="255"
+                            HorizontalContentAlignment="Left"
+                            FontSize="18"
+                            Margin="0 0.5"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Click="SideNav_Click">
+                        <Label Margin="20 0 0 0"
+                               Content="Quiz"
+                               Foreground="{StaticResource PrimaryColour}" />
+                    </Button>
+
+                    <Button x:Name="MaterialsButton"
+                            Height="40"
+                            Width="255"
+                            HorizontalContentAlignment="Left"
+                            FontSize="18"
+                            Margin="0 0.5"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Click="SideNav_Click">
+                        <Label Margin="20 0 0 0"
+                               Content="Materials"
+                               Foreground="{StaticResource PrimaryColour}" />
+                    </Button>
+                </TreeViewItem>
+
+                <TreeViewItem Header="Fees/Dues"
+                              IsExpanded="True">
+                    <Button x:Name="FeeButton"
+                            Height="40"
+                            Width="255"
+                            HorizontalContentAlignment="Left"
+                            FontSize="18"
+                            Margin="0 0.5"
+                            Style="{StaticResource SecondaryButtonStyle}"
+                            Click="SideNav_Click">
+                        <Label Margin="20 0 0 0"
+                               Content="Fee/Dues"
+                               Foreground="{StaticResource PrimaryColour}" />
+                    </Button>
+                </TreeViewItem>
+
+            </TreeView>
+
+        </StackPanel>
+
+        <StackPanel Margin="300 80 0 0"
+                    Height="700"
+                    Width="1200">
+            <Frame x:Name="HomePageFrame"
+                   Height="700"
+                   Width="1200"
+                   NavigationUIVisibility="Hidden"
+                   Background="{StaticResource WhiteColour}" />
+
+        </StackPanel>
+ 
+    </Grid>
+</Page>

@@ -1,0 +1,320 @@
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\CUOnline.exe.config
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\CUOnline.exe
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\CUOnline.pdb
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\BusinessLogic.dll
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\BusinessLogic.pdb
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.AssemblyReference.cache
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\App.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnline_MarkupCompile.cache
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnline_MarkupCompile.lref
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\MainWindow.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnline.g.resources
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnline.Properties.Resources.resources
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.GenerateResource.cache
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.CopyComplete
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnline.exe
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\CUOnline.pdb
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\App.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\bin\Debug\CUOnline.exe.config
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\bin\Debug\CUOnline.exe
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\bin\Debug\CUOnline.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\bin\Debug\BusinessLogic.dll
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\bin\Debug\BusinessLogic.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminAddStudentPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminDeleteStudentPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminHomePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminUpdateStudentPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminWelcomePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\MainWindow.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\App.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnline_MarkupCompile.cache
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnline_MarkupCompile.lref
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\App.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminAddStudentPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminDeleteStudentPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminHomePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminUpdateStudentPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminWelcomePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\MainWindow.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnline.g.resources
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnline.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.CopyComplete
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnline.exe
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\CUOnline.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminAddTeacherPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminAddTeacherPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminDeleteTeacherPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminUpdateTeacherPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminDeleteTeacherPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminUpdateTeacherPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminAddCoursePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminAddCoursePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminUpdateCoursePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminUpdateCoursePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminSearchCourseWindow.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminSearchCourseWindow.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminDeleteCoursePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminDeleteCoursePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminFeesPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\CUOnline\CUOnline\obj\Debug\AdminFeesPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\CUOnline.exe.config
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\CUOnline.exe
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\CUOnline.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\BusinessLogic.dll
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\BusinessLogic.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\MainWindow.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\App.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnline_MarkupCompile.cache
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnline_MarkupCompile.lref
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\App.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\MainWindow.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnline.g.resources
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnline.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.CopyComplete
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnline.exe
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\CUOnline.pdb
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddCoursePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddStudentPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddTeacherPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAssignCoursePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteCoursePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteStudentPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteTeacherPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminHomePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateCoursePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateStudentPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateTeacherPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminWelcomePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentAssignmentPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentDashboardPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentHomePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentRegistrationCardPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddCoursePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddStudentPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddTeacherPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAssignCoursePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteCoursePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteStudentPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteTeacherPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminHomePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateCoursePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateStudentPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateTeacherPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminWelcomePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentAssignmentPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentDashboardPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentHomePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentRegistrationCardPage.baml
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\CUOnlineDatabase.mdf
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\CUOnlineDatabase_log.ldf
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\DataLayer.dll
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\EntityFramework.dll
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\DataLayer.pdb
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\DataLayer.dll.config
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\EntityFramework.xml
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\BusinessLogic.dll.config
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\CUOnline\CUOnline\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminResetPasswordPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminResetPasswordPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherHomePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherHomePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminRegisterCoursePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminRegisterCoursePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.AssemblyReference.cache
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminAddCoursePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminAddStudentPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminAddTeacherPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminAssignCoursePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteCoursePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteStudentPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteTeacherPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminFeesPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminHomePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminRegisterCoursePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminResetPasswordPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateCoursePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateStudentPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateTeacherPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminWelcomePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\MainWindow.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentAssignmentPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentDashboardPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentFeePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentHomePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentRegistrationCardPage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Teacher\TeacherHomePage.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\App.g.cs
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnline_MarkupCompile.cache
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnline_MarkupCompile.lref
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnline.exe
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnline.pdb
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\CUOnlineDatabase.mdf
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\CUOnlineDatabase_log.ldf
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\CUOnline.exe.config
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\CUOnline.exe
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\CUOnline.pdb
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\BusinessLogic.dll
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\DataLayer.dll
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\EntityFramework.dll
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\BusinessLogic.pdb
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\BusinessLogic.dll.config
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\DataLayer.pdb
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\DataLayer.dll.config
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\EntityFramework.xml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\App.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminAddCoursePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminAddStudentPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminAddTeacherPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminAssignCoursePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteCoursePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteStudentPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteTeacherPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminFeesPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminHomePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminRegisterCoursePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminResetPasswordPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateCoursePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateStudentPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateTeacherPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Admin\AdminWelcomePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\MainWindow.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentAssignmentPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentDashboardPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentFeePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentHomePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Student\StudentRegistrationCardPage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\Teacher\TeacherHomePage.baml
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnline.g.resources
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnline.Properties.Resources.resources
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.GenerateResource.cache
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\Downloads\CUOnline\CUOnline\obj\Debug\CUOnlineWPFLayer.csproj.CopyComplete
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherAssignAssignmentPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherAssignQuizPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherSharingLearningResourcesPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherAssignAssignmentPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherAssignQuizPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherSharingLearningResourcesPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherDashboardPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherMarkAttendancePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherUploadMarksPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherDashboardPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherMarkAttendancePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherUploadMarksPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentLearningResourcesPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentQuizPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentResultCardPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentViewAttendancePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentViewMarksPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentLearningResourcesPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentQuizPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentResultCardPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentViewAttendancePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentViewMarksPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentSettingPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentSettingPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherProfilePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherProfilePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentProfilePage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherSettingPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Student\StudentProfilePage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherSettingPage.baml
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminSettingPage.g.cs
+D:\Projects\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminSettingPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\CUOnlineDatabase.mdf
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\CUOnlineDatabase_log.ldf
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\DataLayer.dll
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\BusinessLogic.dll.config
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\DataLayer.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\DataLayer.dll.config
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddCoursePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddStudentPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddTeacherPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAssignCoursePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteCoursePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteStudentPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteTeacherPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminHomePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminRegisterCoursePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminResetPasswordPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminSettingPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateCoursePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateStudentPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateTeacherPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminWelcomePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentAssignmentPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentDashboardPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentHomePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentLearningResourcesPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentProfilePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentQuizPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentRegistrationCardPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentResultCardPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentSettingPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentViewAttendancePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentViewMarksPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherAssignAssignmentPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherAssignQuizPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherDashboardPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherHomePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherLearningResourcesPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherMarkAttendancePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherProfilePage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherSettingPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherSharingLearningResourcesPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherUploadMarksPage.g.cs
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddCoursePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddStudentPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAddTeacherPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminAssignCoursePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteCoursePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteStudentPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminDeleteTeacherPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminHomePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminRegisterCoursePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminResetPasswordPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminSettingPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateCoursePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateStudentPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminUpdateTeacherPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Admin\AdminWelcomePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentAssignmentPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentDashboardPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentHomePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentLearningResourcesPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentProfilePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentQuizPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentRegistrationCardPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentResultCardPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentSettingPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentViewAttendancePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Student\StudentViewMarksPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherAssignAssignmentPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherAssignQuizPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherDashboardPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherHomePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherLearningResourcesPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherMarkAttendancePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherProfilePage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherSettingPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherSharingLearningResourcesPage.baml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\CUOnline\obj\Debug\Teacher\TeacherUploadMarksPage.baml

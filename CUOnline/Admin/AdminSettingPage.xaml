@@ -1,0 +1,70 @@
+﻿<Page x:Class="CUOnline.AdminSettingPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:CUOnline"
+      mc:Ignorable="d"
+      d:DesignHeight="720"
+      d:DesignWidth="1250"
+      Title="AdminSettingPage">
+
+    <Grid Background="{StaticResource WhiteColour}">
+        <Label Content="Settings"
+               Style="{StaticResource Heading1Style}"
+               Margin="50 20 0 0" />
+        <StackPanel Height="450"
+                    Width="350">
+            <Label Content="Change Password"
+                   Style="{StaticResource Heading2Style}" />
+            <Label Content="Old Password:"
+                   Margin="25 30 0 0"
+                   Style="{StaticResource BodyText2Style}" />
+
+            <PasswordBox x:Name="OldPassword_PasswordBox"
+                         Width="300"
+                         VerticalContentAlignment="Center"
+                         FontSize="18"
+                         Height="40"
+                         BorderThickness="1.5"
+                         BorderBrush="{StaticResource BlackColour}"
+                         HorizontalAlignment="Left"
+                         Margin=" 25 5 0 0" />
+            <Label Content="New Password:"
+                   Margin="25 30 0 0"
+                   Style="{StaticResource BodyText2Style}" />
+
+            <PasswordBox x:Name="NewPassword_PasswordBox"
+                         Width="300"
+                         VerticalContentAlignment="Center"
+                         FontSize="18"
+                         Height="40"
+                         BorderThickness="1.5"
+                         BorderBrush="{StaticResource BlackColour}"
+                         HorizontalAlignment="Left"
+                         Margin=" 25 5 0 0" />
+            <Label Content="Confirm Password:"
+                   Margin="25 30 0 0"
+                   Style="{StaticResource BodyText2Style}" />
+
+            <PasswordBox x:Name="ConfirmPassword_PasswordBox"
+                         Width="300"
+                         VerticalContentAlignment="Center"
+                         FontSize="18"
+                         Height="40"
+                         BorderThickness="1.5"
+                         BorderBrush="{StaticResource BlackColour}"
+                         HorizontalAlignment="Left"
+                         Margin=" 25 5 0 0" />
+
+
+        </StackPanel>
+        <Button x:Name="Save_Button"
+                Style="{StaticResource PrimaryButtonStyle}"
+                Content="Save"
+                Margin="0 550 0 0"
+                Click="Save_Button_OnClick" />
+
+
+    </Grid>
+</Page>

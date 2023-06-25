@@ -1,0 +1,42 @@
+D:\Projects\C#\CUOnline\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Projects\C#\CUOnline\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Projects\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Projects\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Projects\C#\CUOnline\BusinessLogic\bin\Debug\CUOnlineDatabase.mdf
+D:\Projects\C#\CUOnline\BusinessLogic\bin\Debug\CUOnlineDatabase_log.ldf
+D:\Projects\C#\CUOnline\BusinessLogic\bin\Debug\DataLayer.dll
+D:\Projects\C#\CUOnline\BusinessLogic\bin\Debug\DataLayer.pdb
+D:\Projects\C#\CUOnline\BusinessLogic\bin\Debug\DataLayer.dll.config
+D:\Projects\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\Projects\C#\CUOnline\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\CUOnlineDatabase.mdf
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\CUOnlineDatabase_log.ldf
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\DataLayer.dll
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\DataLayer.pdb
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\DataLayer.dll.config
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Ahsan\Downloads\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\bin\Debug\CUOnlineDatabase.mdf
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\bin\Debug\CUOnlineDatabase_log.ldf
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\bin\Debug\DataLayer.dll
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\bin\Debug\DataLayer.pdb
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\bin\Debug\DataLayer.dll.config
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah\Desktop\Shared Folder\C#\CUOnline\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete

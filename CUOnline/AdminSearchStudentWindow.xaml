@@ -1,0 +1,62 @@
+﻿<Window x:Class="CUOnline.AdminSearchStudentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CUOnline"
+        mc:Ignorable="d"
+        Title="AdminSearchStudentWindow" Height="400" Width="600"
+        Topmost="True"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        
+        <StackPanel>
+            <Label Content="Registration No."
+                   Style="{StaticResource BodyText2Style}"
+                   Margin="150 100 0 0" />
+            <StackPanel Orientation="Horizontal">
+                <ComboBox Height="40"
+                          Width="60"
+                          HorizontalAlignment="Left"
+                          VerticalContentAlignment="Center"
+                          FontSize="18"
+                          Margin="150 5 0 0">
+                    <ComboBoxItem Content="FA" />
+                    <ComboBoxItem Content="SP" />
+                </ComboBox>
+                <ComboBox Height="40"
+                          Width="60"
+                          HorizontalAlignment="Left"
+                          VerticalContentAlignment="Center"
+                          FontSize="18"
+                          Margin="15 5 0 0">
+                    <ComboBoxItem Content="18" />
+                    <ComboBoxItem Content="19" />
+                    <ComboBoxItem Content="20" />
+                    <ComboBoxItem Content="21" />
+                </ComboBox>
+                <ComboBox Height="40"
+                          Width="70"
+                          HorizontalAlignment="Left"
+                          VerticalContentAlignment="Center"
+                          FontSize="18"
+                          Margin="15 5 0 0">
+                    <ComboBoxItem Content="BCS" />
+                    <ComboBoxItem Content="BSE" />
+                    <ComboBoxItem Content="BCE" />
+                </ComboBox>
+                <TextBox Style="{StaticResource TextBoxStyle}"
+                         Width="60"
+                         HorizontalAlignment="Left"
+                         Margin="15 5 0 0" />
+            </StackPanel>
+
+            <Button x:Name="SearchStudentButton"
+                    Content="Search"
+                    Margin="75"
+                    Style="{StaticResource PrimaryButtonStyle}"
+                    Click="SearchStudentButton_Click" />
+
+        </StackPanel>
+    </Grid>
+</Window>

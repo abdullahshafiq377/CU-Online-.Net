@@ -1,0 +1,43 @@
+﻿<Page x:Class="CUOnline.StudentAssignmentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:CUOnline"
+      mc:Ignorable="d"
+      d:DesignHeight="720"
+      d:DesignWidth="1250"
+      Title="StudentAssignmentPage">
+
+    <Grid Background="{StaticResource WhiteColour}">
+        <Label Content="View Assignment"
+               Style="{StaticResource Heading1Style}"
+               Margin="50 20 0 0" />
+
+        <StackPanel Height="500"
+                    Margin="0 0 0 75"
+                    VerticalAlignment="Bottom"
+                    Width="1100">
+            <Label Content="Courses:"
+                   Style="{StaticResource Heading2Style}" />
+            <DataGrid x:Name="Courses_Table"
+                      Height="200"
+                      d:ItemsSource="{d:SampleData ItemCount=5}"
+                      Background="White"
+                      FontSize="18"
+                      VerticalContentAlignment="Center"
+                      SelectionChanged="Courses_Table_SelectionChanged" />
+
+            <Label Content="Assignments:"
+                   Style="{StaticResource Heading2Style}" />
+            <DataGrid x:Name="Assignments_Table"
+                      Height="200"
+                      d:ItemsSource="{d:SampleData ItemCount=5}"
+                      Background="White"
+                      FontSize="18"
+                      VerticalContentAlignment="Center" />
+
+
+        </StackPanel>
+    </Grid>
+</Page>
